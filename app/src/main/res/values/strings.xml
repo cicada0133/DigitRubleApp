@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Digit Ruble App</string>
+    <string name="title_home">Профиль</string>
+    <string name="title_dashboard">Главная</string>
+    <string name="title_notifications">Переводы</string>
+    <string name="fio">ФИО:</string>
+    <string name="inn">ИНН:</string>
+    <string name="pasport">Паспорт:</string>
+    <string name="update_wal">Обновить баланс</string>
+</resources>
